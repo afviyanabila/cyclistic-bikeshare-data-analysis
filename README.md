@@ -1,6 +1,6 @@
 # cyclistic-bikeshare-data-analysis
 
-A case study with the objective to maximize the number of annual memberships by designing marketing strategies aimed at converting casual riders into annual members
+A case study with the objective of maximizing the number of annual memberships by designing marketing strategies aimed at converting casual riders into annual members
 
 Highlights :
 - Joining and cleaning datasets
